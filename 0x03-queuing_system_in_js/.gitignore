@@ -1,0 +1,232 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Build files
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller files
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test/coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translation files
+*.mo
+*.pot
+
+# Django files
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask files
+instance/
+.webassets-cache
+
+# Scrapy files
+.scrapy
+
+# Sphinx docs
+docs/_build/
+
+# PyBuilder output
+target/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IPython settings
+profile_default/
+ipython_config.py
+
+# pyenv version file
+.python-version
+
+# pipenv files (optional to exclude Pipfile.lock)
+#Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery files
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath files
+*.sage.py
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder settings
+.spyderproject
+.spyproject
+
+# Rope settings
+.ropeproject
+
+# mkdocs output
+/site
+
+# mypy cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker cache
+.pyre/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Node.js diagnostic reports
+report.*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Instrumented libraries
+lib-cov
+
+# Coverage tools
+coverage
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Grunt files
+.grunt
+
+# Bower dependencies
+bower_components
+
+# Node-waf config
+.lock-wscript
+
+# Compiled binary addons
+build/Release
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript declaration/cache
+typings/
+*.tsbuildinfo
+
+# npm cache
+.npm
+
+# eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# REPL history
+.node_repl_history
+
+# npm pack output
+*.tgz
+
+# Yarn integrity file
+.yarn-integrity
+
+# dotenv files
+.env
+.env.test
+
+# Parcel bundler cache
+.cache
+
+# Next.js output
+.next
+
+# Nuxt.js output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+# Uncomment for Gatsby (not Next.js)
+# public
+
+# VuePress output
+.vuepress/dist
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# Project-specific files
+.vscode/
+*~
+*#
+dump/
+redis-6.0.10*
